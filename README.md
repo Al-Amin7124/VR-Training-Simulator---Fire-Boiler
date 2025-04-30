@@ -3,3 +3,5 @@ A professional-grade virtual reality simulator for training on fire boiler syste
 
 ## License
 This project is licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+You may download and play this project for personal or educational purposes only.  
+Commercial use, redistribution, or modification is strictly prohibited.
